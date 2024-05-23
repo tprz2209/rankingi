@@ -18,7 +18,7 @@ section {
 }
 
 nav {
-  background-color: #01050c;
+  background-color: #0b1119;
   display: flex;
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
@@ -54,17 +54,17 @@ li:hover {
 }
 
 .active-ranking {
-  background-color: #343941;
+  background-color: #323f52;
   border-radius: 10px;
 }
 
 table {
-  background-color: #0d1015;
+  background-color: #0b1119;
   width: 100%;
 }
 
 thead {
-  background-color: #0d1015;
+  background-color: #101926;
 }
 
 td {
@@ -101,7 +101,7 @@ td:nth-child(4) {
 }
 
 footer {
-  background-color: #01050c;
+  background-color: #101926;
   color: white;
   text-align: right;
   font-weight: 700;
